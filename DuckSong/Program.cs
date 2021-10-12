@@ -35,11 +35,11 @@ namespace DuckSong
                 {
                     Console.WriteLine($"But only {i - 1}little {ducks} came back");
                 }
-                else if (i == 4)
+                else
                 {
                     Console.WriteLine($"But none of the {i + 4} little ducks came back");
                 }
-                else
+                
                 {
                     Console.WriteLine($"Sad mother duck went out one day. Over the hill and far away." +
                    $" The sad mother duck said, 'quack quack quack quack'" +
